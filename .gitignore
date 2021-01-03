@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+bert/.ipynb_checkpoints/*
+bert/.ipynb_checkpoints/*.ipynb
+.ipynb_checkpoints/*.ipynb
+
